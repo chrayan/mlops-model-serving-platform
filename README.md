@@ -1,6 +1,6 @@
 # MLOps Model Serving Platform
 
-Example machine learning deployment service with training pipeline and prediction API.
+Machine learning deployment service with training pipeline and prediction API.
 
 ## Features
 Model training pipeline  
